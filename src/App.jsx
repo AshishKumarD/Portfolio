@@ -26,7 +26,7 @@ function App() {
           
         </p>
         <p>
-          Skills: NA
+          Ever upgrading
           
         </p>
       </div>
